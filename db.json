@@ -1,9 +1,9 @@
 {
 "Datos": [
   {
-  "ID" :1, "Nombre": "Juan" , "edad" :23},
-  {"ID": 2, "Nombre":"Luis", "edad" :32},
-  {"ID" :3, "Nombre": "Pedro", "edad": 18}
+  "ID" :1, "Nombre": "Juan" , "Edad" :23},
+  {"ID": 2, "Nombre":"Luis", "Edad" :32},
+  {"ID" :3, "Nombre": "Pedro", "Edad": 18}
 
 
 
